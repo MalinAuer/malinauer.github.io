@@ -1,4 +1,5 @@
 baseURL = 'https://malinauer.github.io'
-languageCode = 'en-us'
+languageCode = 'de-DE'
+defaultContentLanguage = 'de'
 title = 'Adwatch Innsbruck'
 theme = "papermod"
