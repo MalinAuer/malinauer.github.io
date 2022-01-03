@@ -23,4 +23,4 @@ Auf diesem Blog möchte ich die Auswucherungen der Werbe-Industrie dokumentieren
 Immer wieder "glänzen" große Firmen mit besonders schlechten und diskriminierenden Kampagnen.
 Um einer Normalisierung entgegen zu wirken ist es wichtig diese aufzuzeigen, einzuordnen und zu kritisieren. 
 Und nicht zuletzt soll es auch Platz geben für subversive Veränderung von Werbung, dem sogenannten Adbusting. 
-Entsprechende Bilder und Infos können gerne per Mail an adbust\_ibk@riseup.net geschickt werden.
+Entsprechende Bilder und Infos können gerne per Mail an adbust\_ibk@riseup.net ([PGP Key](/adbust_ibk.asc)) geschickt werden.
