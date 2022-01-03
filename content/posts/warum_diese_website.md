@@ -13,7 +13,7 @@ Es ist unmöglich sich im öffentlichen Raum zu bewegen ohne damit konfrontiert 
 
 # Situation in Innsbruck
 
-Demokratisch kontrolliert ist dieser öffentliche Raum nicht: Die Stadtregierung
+Demokratisch kontrolliert ist dieser öffentliche Raum nicht: Die Innsbrucker Stadtregierung
 hat 2018 einen Generalplakatierungsvertrag mit Laufzeit
 von 7 Jahren an die
 private Firma Epamedia vergeben, der dieser erlaubt die Vergabe der Werbeflächen
@@ -41,7 +41,7 @@ zurück. Und in Tirol nicht zuletzt auf eine Konstruktion der gemeinsamen
 Die beworbenen Produkte dieser Firmen sind nicht selten sozial fragwürdig: 
 Besonders häufig beworben werden Glücksspiele, Tabak bzw. Nikotinprodukte und Autos. 
 
-# Warum diese Website?
+# adwatchibk.org: Ein Watchblog
 
 Auf diesem Blog möchte ich die Auswucherungen der Werbe-Industrie dokumentieren und kommentieren.
 Immer wieder "glänzen" große Firmen mit besonders schlechten und diskriminierenden Kampagnen.
