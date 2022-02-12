@@ -3,3 +3,23 @@ languageCode = 'de-DE'
 defaultContentLanguage = 'de'
 title = 'Adwatch Innsbruck'
 theme = "papermod"
+
+[menu]
+[[menu.main]]
+  identifier = 'About'
+  name = 'Über die Website'
+  url = '/Ueber/'
+  weight = -90
+
+[[menu.main]]
+  identifier = 'Posts'
+  name = 'Watchblog'
+  url = '/Posts/'
+  weight = -110
+
+[[menu.main]]
+  identifier = 'Resourcen'
+  name = 'Resourcen'
+  url = '/Resourcen/'
+  weight = -100
+

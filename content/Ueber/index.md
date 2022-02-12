@@ -1,6 +1,5 @@
 ---
 title: "Warum diese Website?"
-date: 2022-01-03T11:17:08Z
 draft: false
 ---
 
