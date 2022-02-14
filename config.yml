@@ -1,23 +1,8 @@
+title: Adwatch Innsbruck
 baseURL: 'https://malinauer.github.io'
 languageCode: de-DE
 defaultContentLanguage: de
-title: Adwatch Innsbruck
 theme: papermod
-frontmatter:
-  date:
-    - date
-    - publishDate
-    - lastmod
-  expiryDate:
-    - expiryDate
-  lastmod:
-    - ':git'
-    - lastmod
-    - date
-    - publishDate
-  publishDate:
-    - publishDate
-    - date
 menu:
   main:
     - identifier: ueber

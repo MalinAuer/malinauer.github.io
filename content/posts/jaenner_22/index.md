@@ -1,7 +1,9 @@
 ---
-title: "Januar 2022"
+title: "Jänner 2022"
 draft: false
 ---
+
+Hier die "Highlights" des Jänner '22.
 
 # Tabak
 
