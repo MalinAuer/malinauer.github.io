@@ -1,5 +1,6 @@
 ---
 title: "Adbusting Linkliste"
+slug: linkliste
 draft: false
 ---
 

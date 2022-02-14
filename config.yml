@@ -1,0 +1,34 @@
+baseURL: 'https://malinauer.github.io'
+languageCode: de-DE
+defaultContentLanguage: de
+title: Adwatch Innsbruck
+theme: papermod
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  expiryDate:
+    - expiryDate
+  lastmod:
+    - ':git'
+    - lastmod
+    - date
+    - publishDate
+  publishDate:
+    - publishDate
+    - date
+menu:
+  main:
+    - identifier: ueber
+      name: Über die Website
+      url: ueber/
+      weight: -90
+    - identifier: posts
+      name: Watchblog
+      url: posts/
+      weight: -110
+    - identifier: resourcen
+      name: Resourcen
+      url: resourcen/
+      weight: -100
